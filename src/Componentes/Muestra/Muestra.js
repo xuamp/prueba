@@ -19,17 +19,17 @@ function Muestra() {
       {carga ? (
         <div className="scroll-x">
           <CardM
-            clase={2}
+            clase={1}
             imagen={prod[0].foto}
             categoria={prod[0].categoria}
           />
           <CardM
-            clase={2}
+            clase={1}
             imagen={prod[0].foto}
             categoria={prod[0].categoria}
           />
           <CardM
-            clase={2}
+            clase={1}
             imagen={prod[0].foto}
             categoria={prod[0].categoria}
           />
